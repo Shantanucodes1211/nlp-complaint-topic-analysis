@@ -1,0 +1,3 @@
+Topic Modelling Method,Input Matrix,Main Idea,Result Interpretation
+LDA,Bag of Words,Probabilistic model that represents documents as mixtures of topics.,Produces broader probabilistic topic groups.
+NMF,TF-IDF,Matrix factorization method that finds groups of important words.,Often produces cleaner and more interpretable topic words.
